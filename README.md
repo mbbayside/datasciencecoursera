@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository created for data science class prokect
+Repository created for data science class project
